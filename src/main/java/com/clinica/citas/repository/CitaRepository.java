@@ -1,3 +1,4 @@
+// Autor: Diego Zipa
 package com.clinica.citas.repository;
 
 import com.clinica.citas.model.Cita;

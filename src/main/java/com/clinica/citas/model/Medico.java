@@ -1,3 +1,4 @@
+// Autor: Diego Barrera
 package com.clinica.citas.model;
 
 import jakarta.persistence.*;

@@ -1,3 +1,4 @@
+// Autor: Diego Zipa
 package com.clinica.citas;
 
 import org.junit.jupiter.api.Test;
